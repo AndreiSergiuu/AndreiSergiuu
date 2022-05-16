@@ -7,4 +7,4 @@ Meanwhile I'll try learning by watching videos, taking free courses, reading, et
 
 - 💬 Languages: I know **spanish**, **romanian** and I'm learnig **English**. In a future I would like to learn new languages like Japanase.
 - 💪Hobbies: I like **playing videogames** and **going to the gym**.
-- 📌What I'm learning: **HMTL CSS and JS**
+- 📌What I'm learning: **Javascript and some of its frameworks**
