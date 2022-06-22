@@ -5,6 +5,6 @@
 
 Meanwhile I'll be learning by watching videos, taking free courses, reading, etc.
 
-- 💬 Languages: I know **spanish**, **romanian** and **English**. In a future I would like to learn new languages like Japanase.
+- 💬 Languages: I know **Spanish**, **Romanian** and **English**. In a future I would like to learn new languages like Japanase.
 - 💪Hobbies: I like **playing videogames** and **going to the gym**.
-- 📌What I'm learning: **Javascript and some of its frameworks**
+- 📌What I'm learning: **Javascript and some of it's frameworks as React**
