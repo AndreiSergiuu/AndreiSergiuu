@@ -1,10 +1,13 @@
-<h2 align="center">Hi there! 👋 I'm Andrei Sergiu</h2>
+<h2 align="center">Hello there! 👋 I'm Andrei Sergiu</h2>
 
----
-✨I'm a 17 years old student who wants to learn how to code. Currently I'm studyng administration management and once I finish it I would like to study something about Web Developing.
+<p>✨I'm a 18-year-old student who is passionate about coding. Currently studying administration management, I plan to pursue web development once I finish my degree.</p>
 
-Meanwhile I'll be learning by watching videos, taking free courses, reading, etc.
+<p>🌟 I'm a constant learner and always looking for ways to improve my skills. I enjoy watching videos, taking free courses, reading, and more.</p>
 
-- 💬 Languages: I know **Spanish**, **Romanian** and **English**. In a future I would like to learn new languages like Japanase.
-- 💪Hobbies: I like **playing videogames** and **going to the gym**.
-- 📌What I'm learning: **Javascript and some of it's frameworks as React**
+<h3 align="center">Here's a bit more about me:</h3>
+
+<ul>
+  <li>💬 Languages: I'm fluent in Spanish, Romanian, and English, and hope to learn new languages like Japanese in the future.</li>
+  <li>💪 Hobbies: I love playing videogames and going to the gym to stay active and healthy.</li>
+  <li>📌 What I'm learning: Currently, I'm focusing on learning Javascript</li>
+</ul>
