@@ -7,7 +7,7 @@
 <h3 align="center">Here's a bit more about me:</h3>
 
 <ul>
-  <li>💬 Languages: I'm fluent in Spanish, Romanian, and English, and hope to learn new languages like Japanese in the future.</li>
+  <li>💬 Languages: I'm fluent in Spanish, Romanian, and English</li>
   <li>💪 Hobbies: I love playing videogames and going to the gym to stay active and healthy.</li>
   <li>📌 What I'm learning: Currently, I'm focusing on learning Javascript</li>
 </ul>
